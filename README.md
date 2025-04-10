@@ -22,4 +22,3 @@ Mapping Library: Mapbox
 Backend: Express.js
 
 Database: MongoDB
-
